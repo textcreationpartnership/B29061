@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romes eccho, or, A dialogve betvvixt a papist and a Protestant vvith an admonition to ovr lordly bishops and a briefe relation of the suffering of that worthy and religious devine master Bates, and the inhumane usage of his dead bones afterward, who died in the gatehouse under the bishops tyrannie.</title>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29061</idno><idno type="EEBO-CITATION">19611738</idno>
+  <idno type="VID">205561</idno>
+  <idno type="EEBO-PROQUEST">2240878528</idno>
+  
+            <idno type="STC">Wing R1899</idno>
+            <idno type="OCLC">19611738</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1694:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Romes eccho, or, A dialogve betvvixt a papist and a Protestant vvith an admonition to ovr lordly bishops and a briefe relation of the suffering of that worthy and religious devine master Bates, and the inhumane usage of his dead bones afterward, who died in the gatehouse under the bishops tyrannie.</title>
+                  <author>Cleveland, John, 1613-1658.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to John Cleveland in the Wrenn catalogue.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bates, Randall, d. 1613.</term>
+               <term type="topical_term">Anti-Catholicism --  England --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205561:1"/>
+            <p>ROMES ECCHO OR A DIALOGVE BE<g ref="char:EOLhyphen"/>TVVIXT A PAPIST AND A PROTESTANT: VVITH AN ADMONITION TO OVR LORDLY BISHOPS.</p>
+            <p>And a briefe Relation of the suffering of that worthy and Religious Devine Master <hi>BATES,</hi> and the Inhumane usage of his dead bones afterward.</p>
+            <p>Who died in the Gatehouse, under the Bishops Tyrannie.</p>
+            <q>
+               <bibl>PROVERBS 12. V. 10.</bibl>
+               <p>A Righteous man regardeth the life of his Beast, but the tender mercies of the wicked are cruell.</p>
+            </q>
+            <p>Printed in the Wonderfull Yeare of God, 1641.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:205561:2"/>
+            <pb facs="tcp:205561:2"/>
+            <head>A Caveate for Lordly Bishops.</head>
+            <l>COme downe ye Bishops feare a fall</l>
+            <l>your kingdome 'ginnes to shake:</l>
+            <l>the hand is writing on the wall</l>
+            <l>which makes your knees to quake.</l>
+            <l>Your building like a tottering wall</l>
+            <l>the ground workes laid in sand</l>
+            <l>Come downe it will take <hi>Babels</hi> fall</l>
+            <l>sure long it cannot stand:</l>
+            <l>Your language is confounded sure</l>
+            <l>you wote not what to say;</l>
+            <l>And yet to build up <hi>Babels</hi> tower,</l>
+            <l>you still bring clods of clay.</l>
+            <l>But all this while you patch, and peece</l>
+            <l>with paultrie stuffe indeed;</l>
+            <l>So that in th'end the marke you misse</l>
+            <l>when you hope best to speed.</l>
+            <l>It is not <hi>Ierobams</hi> calves</l>
+            <l>can save you I am sure;</l>
+            <l>Nor yet your cruell Canon Lawes</l>
+            <l>can make your Kingdome dure.</l>
+            <l>You have deprived many a man</l>
+            <l>for breaking mans decrees;</l>
+            <l>But for the Lawes of God not one</l>
+            <l>that doth his living leese.</l>
+            <l>How can this stand with equity</l>
+            <l>resolve me this I pray:</l>
+            <l>To maintaine guides that cannot see,</l>
+            <l>and thrust the good away.</l>
+            <l>For let him be the vilest wretch</l>
+            <l>that lives under the sunne;</l>
+            <l>If he will weare a Surplesse,</l>
+            <l>and crosse the Child with thumbe.</l>
+            <l>Hee's countenanced still by you</l>
+            <l>much better then the best</l>
+            <l>If this prove not to be too true,</l>
+            <l>then let me have no rest</l>
+            <l>You sell most foule adulteries</l>
+            <l>for silver and for gold.</l>
+            <l>The poore must crouch upon his knees</l>
+            <l>by you to be absolud.</l>
+            <l>And sometimes you blesse Iack for Iill</l>
+            <l>if silver doe appeare;</l>
+            <l>If not then sometimes say you will;</l>
+            <l>poore knave what dost thou here.</l>
+            <l>You thinke to have your heaven here,</l>
+            <l>and after heaven too;</l>
+            <l>But I can tell you in your eare,</l>
+            <l>that will be much adoe.</l>
+            <l>For you be growne so monstrous great,</l>
+            <l>even now adayes of late;</l>
+            <l>That 'twill goe hard for you to get</l>
+            <l>in at the narrow gate.</l>
+            <l>Therefore me thinks it were the best</l>
+            <l>if you could so agree;</l>
+            <l>To let your hearts have now no rest</l>
+            <l>till you unladen bee.</l>
+            <l>Of all your pome, and glorious state</l>
+            <l>which causeth God to frowne;</l>
+            <l>Which sinne of yours he doth so hate</l>
+            <l>that sure you must come downe.</l>
+            <l>For sure the Word of God is true,</l>
+            <l>and doe it not forget;</l>
+            <l>He will pluck up I say to you</l>
+            <l>those plants h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never set.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poetic_dialogue">
+            <pb facs="tcp:205561:3"/>
+            <pb facs="tcp:205561:3"/>
+            <head>
+               <hi>ROMES ECCHO</hi> IN <hi>A Dialogue betweene a Protestant and a Papist.</hi>
+            </head>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <l>VVHat newes Sir shaveling heare you none?</l>
+               <l>you should know some I thinke,</l>
+               <l>For many times if any stirre</l>
+               <l>you have it the <hi>Clinke.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <l>Yea some there is one <hi>Hildershum</hi>
+               </l>
+               <l>for that he thought not meete,</l>
+               <l>To take our Inquisition oath,</l>
+               <l>was cast into the Fleete.</l>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <l>Me thinks I should well know the man,</l>
+               <l>thats taken in the lurch,</l>
+               <l>Is it not one, doth what he can,</l>
+               <l>t'oppose the Romish Church?</l>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <l>Its he, but wote you, one that then</l>
+               <l>in High Commission sate,</l>
+               <l>In learned sort, and open Court,</l>
+               <l>his fault did aggravate.</l>
+               <l>Youd faine know how, I tell it now</l>
+               <l>a number standing by,</l>
+               <l>In sober wise, he doth advise,</l>
+               <l>and tells him this plaine <hi>lye,</hi>
+               </l>
+               <l>That <hi>Banbury</hi> men were stiffe at first,</l>
+               <l>Oh they would nothing doe:</l>
+               <l>But now they would doe best &amp; worst,</l>
+               <l>and some thing over too.</l>
+               <l>And you (saith he) will peevish be,</l>
+               <l>you'll in New prison lie,</l>
+               <l>And there perhaps ere long like <hi>Bates</hi>
+               </l>
+               <l>a malefactor dye.</l>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <l>What said he thus? then had he quite</l>
+               <l>the poore mans courage dasht,</l>
+               <l>But that he knew, it was not true,</l>
+               <l>his Lordship overlasht.</l>
+               <l>For thus to speake of worthy <hi>Bates,</hi>
+               </l>
+               <l>how was he not afraid?</l>
+               <l>In stead of malefactor, he</l>
+               <l>a Martyr should have said.</l>
+               <l>What though we be not so precise,</l>
+               <l>and little scripture can?</l>
+               <l>We are perswaded he liv'd well,</l>
+               <l>and dyed a faithfull man.</l>
+               <l>Will <hi>Turner</hi> think you turne his coate,</l>
+               <l>and say he cares not what?</l>
+               <l>Wil <hi>Sharpe</hi> of <hi>Banbury</hi> change his noate</l>
+               <l>and now goe sing a flat?</l>
+               <l>No <hi>Turner</hi> stood, and heard this tale,</l>
+               <l>and was asham'd to heare:</l>
+               <l>The Bishop vent so foule untruthes,</l>
+               <l>without all shame or feare.</l>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <l>Well true or false it matters not,</l>
+               <l>you see heres just occasion:</l>
+               <l>Why we resolve their Lordships have,</l>
+               <l>a Catholike perswasion,</l>
+               <l>And truely they deserve our Church,</l>
+               <l>should yeeld them great applause,</l>
+               <l>In shew they much oppose, in deed</l>
+               <l>they much maintaine our case.</l>
+               <pb n="2" facs="tcp:205561:4"/>
+               <l>What though they rate us now and then</l>
+               <l>to give the State content,</l>
+               <l>And call us powder plotting men,</l>
+               <l>that so we may be shent.</l>
+               <l>Though you, and they doe terme us oft,</l>
+               <l>the <hi>Common adversarie,</hi>
+               </l>
+               <l>Yet they, and we doe well agree,</l>
+               <l>we very little varie.</l>
+               <l>And though in worldly policie,</l>
+               <l>they must needs make faire weather,</l>
+               <l>They know full wel their cause, &amp; ours,</l>
+               <l>will stand or fall together.</l>
+               <l>With <hi>Puritans,</hi> and Preachers all,</l>
+               <l>which most our Kingdome shake,</l>
+               <l>Accounting those our common foes,</l>
+               <l>they present order take.</l>
+               <l>Of such Precesians what they can,</l>
+               <l>the Churches they disarme,</l>
+               <l>And leave in Pulpit scarce a man,</l>
+               <l>will doe us any harme.</l>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <l>Yes sundry men soundlie to taxe,</l>
+               <l>your foule idolatrie,</l>
+               <l>Your masse, your vowes, your pilgrimage</l>
+               <l>and Popes supremacie,</l>
+               <l>Your salt, your spitile, and your creame,</l>
+               <l>your kneeling to the bread:</l>
+               <l>Your sacrifice, your fasting daies,</l>
+               <l>your prayers for the dead.</l>
+               <l>Your calling on departed Saints,</l>
+               <l>your purgatorie fire;</l>
+               <l>You penance, pardons, Indulgence,</l>
+               <l>and such like popish mire.</l>
+               <l>Your Censing, and baptising Bells,</l>
+               <l>your tapers and your lights:</l>
+               <l>Your crossing, holy water, oyle,</l>
+               <l>and conjuring of sprights,</l>
+               <l>Your orders, altars, and perfumes,</l>
+               <l>your Letany profession.</l>
+               <l>Strange language, lying miracles,</l>
+               <l>auricular confession.</l>
+               <l>Your Church beliefe, your merits, works</l>
+               <l>of supererrogation,</l>
+               <l>Your canonizing traitors faints,</l>
+               <l>your grosse equivocation.</l>
+               <l>Your singing, ringing, Requiems,</l>
+               <l>your monethly minds, your feasts,</l>
+               <l>Your legens, bulls, base fretting toyes</l>
+               <l>more base then Scoggins Iests.</l>
+               <l>Your pillar prayers, reliques, woods,</l>
+               <l>your courtesie, knocking brests,</l>
+               <l>Your false communion kissing paxe,</l>
+               <l>and keeping it in chests.</l>
+               <l>Your counsels, canons, decretals,</l>
+               <l>decrees, and mens traditions.</l>
+               <l>Your Iewish churching, and such like</l>
+               <l>a thousand superstititions.</l>
+               <l>These are your Doctrines, whereunto</l>
+               <l>your practises doe suite;</l>
+               <l>All which our learned Cleargie men,</l>
+               <l>doe labour to confute.</l>
+            </sp>
+            <sp>
+               <speaker>Priest.</speaker>
+               <l>In words 'tis true your Clergie men</l>
+               <l>our Doctrines doe disclaime</l>
+               <l>But who sees not therein they give</l>
+               <l>themselves a privie maime,</l>
+               <l>We sometimes heare, &amp; well can beare,</l>
+               <l>They call our doctrine dotage,</l>
+               <l>Provided though they doe not eate</l>
+               <l>our meate, they sup our pottage.</l>
+               <l>What are our ceremonies good,</l>
+               <l>and are our Doctrines naught?</l>
+               <l>In sence can these be practised,</l>
+               <l>and not these other taught?</l>
+               <l>The blusters which your Doctors make,</l>
+               <l>is but a blast of breath:</l>
+               <l>Theres in it no such danger 'tis</l>
+               <l>no dagger but a sheath.</l>
+               <l>Themselves must sob, &amp; come, &amp; crouch</l>
+               <l>and cause to bow the knee:</l>
+               <l>When as they do take, and eate</l>
+               <l>the bread as well as we.</l>
+               <l>They must put on our worthy weedes</l>
+               <l>cap, tippit, and surplus;</l>
+               <l>And do such rites for which what word,</l>
+               <l>or warrant but from us!</l>
+               <l>If any other should alledge</l>
+               <l>alas he should but faine,</l>
+               <l>And coyne some from his owne conceit,</l>
+               <l>of from some other braine.</l>
+               <l>What order have we you have not</l>
+               <l>ile wage an hundreth poundes:</l>
+               <pb n="3" facs="tcp:205561:4"/>
+               <l>Our Papacie, your Prelacie:</l>
+               <l>stands on the selfe same grounds.</l>
+               <l>You keepe our fasts, and feasting dayes,</l>
+               <l>you reade our Leiturgie:</l>
+               <l>Our Canons, and your lawes, from us</l>
+               <l>you have your ministrie.</l>
+               <l>Your Churchings, Organs, &amp; your quire</l>
+               <l>your Letany Containes</l>
+               <l>Some worthy points whereof there is</l>
+               <l>not one of us complaines.</l>
+               <l>All points wherein we well accord</l>
+               <l>I cannot reckon up.</l>
+               <l>
+                  <note n="a" place="margin">Abbot to Tim. Lowel.</note>On Fishstreet hill one gives the bread</l>
+               <l>but would not give the cup.</l>
+               <l>
+                  <note n="b" place="margin">Doctor Layfield.</note>One pleads in pulpit for our faith</l>
+               <l>implicite, and eare shift,</l>
+               <l>And saith none kneelers must be damn'd</l>
+               <l>they can it no way shift.</l>
+               <l>
+                  <note n="c" place="margin">M. Hayw<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </note>A third to prove your kneeling good</l>
+               <l>although it came from us:</l>
+               <l>Reads in our Masse booke word for word</l>
+               <l>and thence concludeth thus.</l>
+               <l>Heres <hi>(Sursum corda)</hi> which saith he,</l>
+               <l>we have from popish writ</l>
+               <l>Our Church as good retaines, &amp; which</l>
+               <l>of us complaines of it.</l>
+               <l>Some yet more cunningly concurre</l>
+               <l>in act, and shunne the name,</l>
+               <l>Like usurers, when as our worke,</l>
+               <l>and worship is the same.</l>
+               <l>Our robes must be your ornaments,</l>
+               <l>or for distinction sake,</l>
+               <l>You must have honest buriall,</l>
+               <l>and therefore prayers make.</l>
+               <l>Our churchings are your giving thanks</l>
+               <l>strange language learning deepe:</l>
+               <l>In stead of our procession, you</l>
+               <l>perambulations keepe.</l>
+               <l>Our kneeling is your comelynesse,</l>
+               <l>our crosse in babes face.</l>
+               <l>Is now become your Christian badge,</l>
+               <l>and no small signe of grace.</l>
+               <l>Our images are portraytures</l>
+               <l>of men that doe adorne</l>
+               <l>Your Churches, if you pull them downe</l>
+               <l>it hardly will be borne.</l>
+               <l>If <hi>Banbury men</hi> will doe their geere,</l>
+               <l>I trow they have their doome,</l>
+               <l>Their orders are well stuft I heare</l>
+               <l>with welcome newes to <hi>Rome.</hi>
+               </l>
+               <l>Yea worthy newes I hope ere this</l>
+               <l>it's over all the towne:</l>
+               <l>Your Churchmen have no 'thoritie</l>
+               <l>to thrust our pictures downe,</l>
+               <l>Your homilie saith they defile,</l>
+               <l>wherein it seemes to lie:</l>
+               <l>This order writes another stile,</l>
+               <l>to wit they beautifie:</l>
+               <l>And so concludes that who so doth</l>
+               <l>them molish or deface:</l>
+               <l>Is justly censured as one</l>
+               <l>that doth prophane the place.</l>
+               <l>A ha Sir <hi>Large</hi> how like you this,</l>
+               <l>did he not say the troth:</l>
+               <l>That said you would soon eate our meat</l>
+               <l>that thus fell to our broth?</l>
+               <l>What practise we that you doe not?</l>
+               <l>have we stewes, you have stage?</l>
+               <l>Blespheme we, you have lotterie</l>
+               <l>maintain'd with wrong, and rage.</l>
+               <l>Pardon we faults, you let forth fees</l>
+               <l>for filthinesse to farme:</l>
+               <l>The strumpet poore must penance pay</l>
+               <l>the rich hath no such harme.</l>
+               <l>Sometimes in deed for verie need</l>
+               <l>the sillie stands in sheete:</l>
+               <l>When with bare brest &amp; head bare drest</l>
+               <l>the silken walke the streete.</l>
+               <l>In briefe what ere may be the fruite</l>
+               <l>of all our tollerations,</l>
+               <l>Our pardons, penance, indulgence,</l>
+               <l>and other dispensations.</l>
+               <l>The same is of your punishing,</l>
+               <l>of sinne by sheet or purse:</l>
+               <l>Your fees for absolution,</l>
+               <l>your Canons, Court, and curse.</l>
+               <l>Nay further name a sin who can</l>
+               <l>that any doth commit,</l>
+               <pb n="4" facs="tcp:205561:5"/>
+               <l>But your conformitie will breed,</l>
+               <l>or feed, and foster it.</l>
+               <l>Let any that will not conforme,</l>
+               <l>cry downe idolatrie:</l>
+               <l>Error, and heresie confute,</l>
+               <l>never so learnedly.</l>
+               <l>Let him reproove dumbe ministers</l>
+               <l>the drunkards Simony,</l>
+               <l>Adulterie, non residence:</l>
+               <l>bribe takers usury.</l>
+               <l>Lots, dycing, stageplayes, brothelhouse</l>
+               <l>the shag haird roaring boyes,</l>
+               <l>The Taverne, Inne, Tobacco shop,</l>
+               <l>that all the place annoyes.</l>
+               <l>The feathered cap, the Saffron ruffe,</l>
+               <l>the lotthsome hellish pride:</l>
+               <l>Some galled horse beginnes to snuffe</l>
+               <l>the Preacher must be tride.</l>
+               <l>Nay let him preach for loyaltie,</l>
+               <l>to lawfull Magistrate:</l>
+               <l>Yea plead, and pray most fervently</l>
+               <l>for safety of the State.</l>
+               <l>Let him for Princes health, and peace</l>
+               <l>alledge the strongest reason:</l>
+               <l>And soundly presse the haynousnesse</l>
+               <l>of poyson powder treason.</l>
+               <l>There's not a Papist in the place</l>
+               <l>or Atheist in the towne:</l>
+               <l>But hath a trick to fetch him up,</l>
+               <l>and well nigh pull him downe.</l>
+               <l>Where are the thousand men become,</l>
+               <l>that fought for reformation,</l>
+               <l>A <hi>Rave bird</hi> with his heady booke,</l>
+               <l>soone wrought their desolation.</l>
+               <l>Ho! they'd have superstitions down,</l>
+               <l>dumbe Ministers supprest.</l>
+               <l>But this our Doctors proctors could</l>
+               <l>in no wife well digest.</l>
+               <l>They would have no Non residents,</l>
+               <l>each pastour flock must feede:</l>
+               <l>And yet have but due recompence,</l>
+               <l>here were a world indeed.</l>
+               <l>Theyld no Comendams have, theyld no</l>
+               <l>pluralities permit,</l>
+               <l>They shot at Rovers yet how right,</l>
+               <l>these <hi>Oxford heads</hi> they hit.</l>
+               <l>They would have mended many things</l>
+               <l>in common prayer booke.</l>
+               <l>Infine they would have <hi>discipline,</hi>
+               </l>
+               <l>which none of us can brooke.</l>
+               <l>Tis <hi>Discipline</hi> I say't againe,</l>
+               <l>that we cannot abide,</l>
+               <l>And have therein all formall men,</l>
+               <l>and Prelates on our side.</l>
+               <l>All Newters our Religion like,</l>
+               <l>and civill men no doubt:</l>
+               <l>Yet should it come to patting wealth,</l>
+               <l>its feard they would stand out.</l>
+               <l>They would joyne close for Prince, and State</l>
+               <l>for countrey, children, wives,</l>
+               <l>Its thought they would not part with these</l>
+               <l>but joyntlie venture lives.</l>
+               <l>Tis this, hearke in your eare a word</l>
+               <l>that puts us to our pause</l>
+               <l>That we trie not with dint of sword,</l>
+               <l>the goodnesse of our cause.</l>
+            </sp>
+            <sp>
+               <speaker>Protestant.</speaker>
+               <l>Avant you peevish plotting priest,</l>
+               <l>you Iaylor keepe him sure:</l>
+               <l>And heare him longer they that list,</l>
+               <l>I will it not endure.</l>
+               <l>See how he hath the bloudy minds,</l>
+               <l>of Popish crew descride:</l>
+               <l>More meet their cause by Princes lawes,</l>
+               <l>at <hi>Tyburne</hi> should be tride.</l>
+               <l>And are our Prelates Popish then?</l>
+               <l>I thought they had beene wise,</l>
+               <l>I tooke them for good Protestants,</l>
+               <l>though none of them precise.</l>
+               <l>Oft have I heard a sore (it is</l>
+               <l>no lesse a just) complaint:</l>
+               <l>Of Priests, and Papists libertie,</l>
+               <l>and Puritants restraint,</l>
+               <l>I meane such as those Impes doe terme;</l>
+               <l>that meanes of grace withstand:</l>
+               <l>And under that pretence molest</l>
+               <l>the quiet of the land.</l>
+               <pb n="5" facs="tcp:205561:5"/>
+               <l>This practiser dissembles not,</l>
+               <l>whom Papists meane to strike,</l>
+               <l>He tells us plainely whom the Pope,</l>
+               <l>and Prelates love alike.</l>
+               <l>He brings to mind an adage ould,</l>
+               <l>which once I saw in verse,</l>
+               <l>Its not so new, nor old as true,</l>
+               <l>I will it heare rehearse:</l>
+               <l>
+                  <hi>Lordbishops make dumbe Ministers,</hi>
+               </l>
+               <l>
+                  <hi>whence Ignorance doth spring:</hi>
+               </l>
+               <l>
+                  <hi>Hence Popery, thence treacherie,</hi>
+               </l>
+               <l>
+                  <hi>'gainst Countrie, State, and King.</hi>
+               </l>
+               <l>Why stay I thus? and presently,</l>
+               <l>betake me not to Court,</l>
+               <l>And in the eares of Prince, and Peeres,</l>
+               <l>this conference report.</l>
+               <l>Why joyne wee not that would be thought</l>
+               <l>good subjects in request,</l>
+               <l>First to the Lord then to the King,</l>
+               <l>these things may be redrest.</l>
+               <l>Why seeke we not by all good meanes</l>
+               <l>these mischiefes to prevent:</l>
+               <l>And by true Christian force unite,</l>
+               <l>to frustrate their intent.</l>
+               <l>Is Princes life so little worth</l>
+               <l>is countries love so cold?</l>
+               <l>Must wives and children be to sword</l>
+               <l>as sheepe to slaughter sould?</l>
+               <l>Shall sharking Spaniard share our goods</l>
+               <l>shall these our babes eate</l>
+               <l>Our lands possesse we purchast have,</l>
+               <l>with perill, paine, &amp; sweate.</l>
+               <l>Much better true Church rule were sought</l>
+               <l>that these things might be stay'd,</l>
+               <l>Then Poperie, or Prelacie,</l>
+               <l>that favour it indur'd.</l>
+               <l>We shall be counted Puritants,</l>
+               <l>too strict, men scrupelous:</l>
+               <l>Better we wrongfullie so term'd,</l>
+               <l>then justly treacherous</l>
+               <l>Who ever heard that such as stand,</l>
+               <l>for Christs true Discipline,</l>
+               <l>In Popish plot had head, or hand</l>
+               <l>in treacherous designe.</l>
+               <l>Intreate we then his Majestie,</l>
+               <l>the Prelates may restore,</l>
+               <l>To Church her ancient parish right</l>
+               <l>usurping it, no more.</l>
+               <l>It's this you see would daunt our foes</l>
+               <l>our friends would gratefie:</l>
+               <l>Our state secure, judgements remove,</l>
+               <l>and blessings multiplie.</l>
+               <l>But if we walking as before</l>
+               <l>Christs discipline with stand,</l>
+               <l>Some feareful plague, &amp; Iudgement sure</l>
+               <l>will overtake the land.</l>
+               <l>The Lord hath sent his Ministers,</l>
+               <l>but we have them disgraced:</l>
+               <l>His Prophets mockt, his messengers</l>
+               <l>suspended, and displaced.</l>
+               <l>Some are disperst, others despisd,</l>
+               <l>in prison some remaine</l>
+               <l>Some ended have their daies in bands,</l>
+               <l>whose bloud doth yet complaine.</l>
+               <l>That wives, and children here, &amp; there</l>
+               <l>expos'd to miserie:</l>
+               <l>No marvell if ere long we heare</l>
+               <l>ther's now no remedie.</l>
+               <l>Our people perish in their sinnes</l>
+               <l>through want of Ministrie,</l>
+               <l>To Goff void of religion,</l>
+               <l>to Prince of Loyaltie.</l>
+               <l>Its not unknowne that Diggers first</l>
+               <l>rose up and havock make,</l>
+               <l>Where Preachers silent, first were forst,</l>
+               <l>their places to forsake.</l>
+               <l>But let's have these restor'd, let no</l>
+               <l>dumbe Ministers be made:</l>
+               <l>Let such as have crept in returne</l>
+               <l>unto their former trade.</l>
+               <l>Let learned <hi>Hildersham</hi> goe forth,</l>
+               <l>who knowes him, knowes 'twere</l>
+               <l>He preaching were, not prisoner, meete</l>
+               <l>in Kings bench, or the Fleete.</l>
+               <l>Let others more be set at large.</l>
+               <l>let <hi>Ashby</hi> men be gone:</l>
+               <l>Let <hi>Leicester</hi> men have their discharge,</l>
+               <l>let <hi>Banbury</hi> men alone.</l>
+               <pb n="6" facs="tcp:205561:6"/>
+               <l>Downe with the cursed office oath</l>
+               <l>let ceremonies cease,</l>
+               <l>Vnjust subscription scourge of truth</l>
+               <l>and bane of Churche<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> peace.</l>
+               <l>The things their patrons count toyes</l>
+               <l>lets banish hence with speed,</l>
+               <l>Let learned men not formall but boyes</l>
+               <l>be set the flocke to feed.</l>
+               <l>In briefe, lets all submit to Christ</l>
+               <l>our Prophet, Priest, and King:</l>
+               <l>Its this to Country, State, and Prince</l>
+               <l>and selves will safety bring.</l>
+               <l>But as for those that be his foes,</l>
+               <l>and wil not have him raigne;</l>
+               <l>In woefull plight into his sight,</l>
+               <l>they shall be brought, and slaine.</l>
+               <l>Reader heres mention made of <hi>Bates</hi>
+               </l>
+               <l>my purpose is to end,</l>
+               <l>Adding thereto the song that thus</l>
+               <l>begins, <hi>Right Reverend.</hi>
+               </l>
+            </sp>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:205561:6"/>
+            <head>HERE FOLLOVVETH A BRIEFE RELATION OF THE DEATH of that worthie Master <hi>Bates,</hi> who being a Prisoner in the Gatehouse, dyed the second of <hi>October</hi> 1613. a faithfull witnesse of of the Truth. With some briefe notes of the cause why others are still imprisoned.</head>
+            <l>
+               <hi>RIght Reverend Randall Bates</hi> at length</l>
+            <l>when twenty moneths were past</l>
+            <l>God freed from Gatehouse into which</l>
+            <l>he causelesly was cast.</l>
+            <l>He dyed not in contempt of lawes,</l>
+            <l>or lawfull Magistrate,</l>
+            <l>But baring witnesse in the cause</l>
+            <l>against the Romish state.</l>
+            <l>His Prince he lov'd, those whom he sent</l>
+            <l>he readily obeyd:</l>
+            <l>And patiently he underwent</l>
+            <l>what others one him laid.</l>
+            <l>More loyall, faithfull to the state,</l>
+            <l>for King, and Kingdomes good,</l>
+            <l>Then those who by restraint impair'd</l>
+            <l>his health, and truth withstood.</l>
+            <l>More fit for heaven say they, tis true</l>
+            <l>but woe to them that spill,</l>
+            <l>The bloud of saints with crueltie,</l>
+            <l>their measure to fulfill.</l>
+            <l>Release was sought, but what successe</l>
+            <l>they did not blush for shame,</l>
+            <l>To say the King would have it thus,</l>
+            <l>loe he must beare the blame.</l>
+            <l>Though Iaylor shut all in, and out</l>
+            <l>with locke and key full sure,</l>
+            <l>They feare the corps is thence conve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>they cannot be secure,</l>
+            <l>The Coffin up they brake, the sheete</l>
+            <l>they see, but then they doubt,</l>
+            <l>Some image lies in wrapt in stead</l>
+            <l>of bodie taken out</l>
+            <l>The sheet they loose, the corpes they view</l>
+            <l>yet when his face they see,</l>
+            <l>They knew him not they say, or doubt</l>
+            <l>at least it is not he,</l>
+            <l>Some of their owne must say or swear</l>
+            <l>and so content the spies,</l>
+            <l>Thus all his servants wicked are,</l>
+            <l>that harken unto lies.</l>
+            <l>All what I could of whats too true</l>
+            <l>to speake I would be loath:</l>
+            <l>Of all their men shew but the man</l>
+            <l>loves God or feares an oath.</l>
+            <l>With Surplice, Tipp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and such trash,</l>
+            <l>with mockes and much disdaine,</l>
+            <l>They flout him when they could inflict</l>
+            <l>on him no further paine.</l>
+            <l>Indeed he hated, so doth God</l>
+            <l>the Popish prelacie,</l>
+            <pb n="8" facs="tcp:205561:7"/>
+            <l>Rom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s remnants relique<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, rights, &amp; rags Christ</l>
+            <l>with her conformity,</l>
+            <l>To grave with bills, and staves, as</l>
+            <l>was taken brought was he,</l>
+            <l>A greater then the master is</l>
+            <l>the servant may not be.</l>
+            <l>Yea further, that they might not much</l>
+            <l>their patterne misse to match,</l>
+            <l>Its said that some their care was such</l>
+            <l>that night the grave did watch.</l>
+            <l>He lives with Christ in happinesse,</l>
+            <l>for all Eternity,</l>
+            <l>His friends he left in heavinesse,</l>
+            <l>his foes in miserie.</l>
+            <l>Those though they waile are yet in way</l>
+            <l>to heaven where all is well:</l>
+            <l>But these unlesse they doe repent,</l>
+            <l>in woe, and way to Hell.</l>
+            <l>Ye that lament him cease your moane,</l>
+            <l>your heads no more hang downe,</l>
+            <l>The race is runne, the field is wonne,</l>
+            <l>he hath the prise, and crowne.</l>
+            <l>He fought the fight, and kept the faith,</l>
+            <l>he spake it oft, now plaine</l>
+            <l>He proves i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never any serv'd</l>
+            <l>the living God in vaine.</l>
+            <l>Mourne for your selves, &amp; those whose rage</l>
+            <l>shall cease or downfalls nere,</l>
+            <l>It well be knowne God loves his owne</l>
+            <l>the death of Saints is deare.</l>
+            <l>They'l now repent, would that were true</l>
+            <l>small hope as yet we see,</l>
+            <l>Since <hi>Banbury</hi> men be in a new,</l>
+            <l>against all equitie.</l>
+            <l>Theres sure some cause yea this is one,</l>
+            <l>its said they were too bold:</l>
+            <l>To throw downe images of stones,</l>
+            <l>a part of Popes freehold</l>
+            <l>Whilst, that were grosse, they will not take</l>
+            <l>the selfe accusing oath,</l>
+            <l>What man of grace so much can make</l>
+            <l>as one just cause of both?</l>
+            <l>Yet first they were to prison brought,</l>
+            <l>and now cast in againe,</l>
+            <l>Because they did that which they ought</l>
+            <l>and feare to sweare in vaine.</l>
+            <l>On others likewise long restraind</l>
+            <l>their anger still they wreakee</l>
+            <l>The second precept, third or ninth,</l>
+            <l>enforcing them to breake,</l>
+            <l>Enforcing, yea say not, he speaks</l>
+            <l>he knowes not what, nor how,</l>
+            <l>Twas said by one, of him that's gone,</l>
+            <l>that he should breake or bow.</l>
+            <l>But God will bow, and bend the back,</l>
+            <l>or breake the teeth, and jawes:</l>
+            <l>Of such as doe oppresse the poore</l>
+            <l>under pretence of lawes.</l>
+            <l>Be patient therefore waite a while</l>
+            <l>the Lord our God will come,</l>
+            <l>And fellow servants smitters shal,</l>
+            <l>receive a dreadfull doome.</l>
+            <l>Oh have compassion, pitty, pray</l>
+            <l>that God his grace would give:</l>
+            <l>They may repent, and so prevent</l>
+            <l>his heavie hand, and live.</l>
+            <l>Praise God for Princes life, and peace,</l>
+            <l>who whilst he Septer swayes,</l>
+            <l>Keeps from us (what the Papists would</l>
+            <l>bring on us) bitter dayes,</l>
+            <l>Save Lord thy Church, this land &amp; state</l>
+            <l>our King, and Prince prorect:</l>
+            <l>And by his race confound the Pope,</l>
+            <l>and comfort thine elect.</l>
+            <l>Shew us thy face in princes grace</l>
+            <l>discerning truth from guile,</l>
+            <l>His subjects truth from popish crew</l>
+            <l>the precious from the vile.</l>
+            <l>Pardon our sinnes, and purge our soules.</l>
+            <l>make glad our hearts againe,</l>
+            <l>We may by grace, with thee our race</l>
+            <l>here runne, hereafter raigne.</l>
+            <closer>Soli Deo gloria &amp; suis solis.</closer>
+            <pb facs="tcp:205561:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
